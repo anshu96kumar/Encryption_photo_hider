@@ -8,7 +8,13 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name="patten" parent="Theme.AppCompat.Light.NoActionBar">
+    <style name="patten" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#26c6da</item>
+        <item name="colorPrimaryDark">#0095a8</item>
+        <item name="colorAccent">#ffee58</item>
+    </style>
+
+    <style name="setting" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">#26c6da</item>
         <item name="colorPrimaryDark">#0095a8</item>
         <item name="colorAccent">#ffee58</item>

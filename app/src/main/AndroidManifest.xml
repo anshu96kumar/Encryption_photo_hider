@@ -16,7 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".pattern" android:theme="@style/patten"></activity>
+        <activity
+            android:name=".pattern"
+            android:theme="@style/patten" />
+        <activity android:name=".password_set" android:theme="@style/setting"></activity>
     </application>
 
 </manifest>
