@@ -19,7 +19,12 @@
         <activity
             android:name=".pattern"
             android:theme="@style/patten" />
-        <activity android:name=".password_set" android:theme="@style/setting"></activity>
+        <activity
+            android:name=".password_set"
+            android:theme="@style/setting" />
+        <activity android:name=".User_info" />
+        <activity android:name=".intruder" />
+        <activity android:name=".change_pin"></activity>
     </application>
 
 </manifest>
